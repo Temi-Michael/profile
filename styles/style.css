@@ -8,10 +8,14 @@
     --white : hsl(0, 0%, 100%);
 }
 
-.profile {
+#body {
     background-color: var(--off-black);
+}
+
+.profile {
+    background-color: var(--dark-grey);
     margin: auto;
-    margin-top: 20px;
+    margin-top: 50px;
     border-radius: 20px;
 }
 
